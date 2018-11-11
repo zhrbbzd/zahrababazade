@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Javascript Arrays</h2>
+  <p>Pulling and Pushing of the arrays</p>
+  <button type="button">push</button>
+</body>
+</html>
