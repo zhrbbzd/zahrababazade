@@ -4,5 +4,16 @@
   <h2>Javascript Arrays</h2>
   <p>Pulling and Pushing of the arrays</p>
   <button type="button">push</button>
+  <p id="demo"></p>
+  
+  <script>
+    var seasons= [spring, summer, fall];
+    document.getEelementById("demo").innerHTML = seasons;
+    
+    function myFunction() {
+      seasons.push("winter");
+      document.getElementById("demo").innerHTM = seasons;
+    }
+  </script>
 </body>
 </html>
